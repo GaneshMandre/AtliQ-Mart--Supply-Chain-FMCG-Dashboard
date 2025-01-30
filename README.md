@@ -57,7 +57,7 @@ This Power BI dashboard provides insights into supply chain efficiency, helping 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-m-92071616a/)
 
-📩 [GitHub](Your GitHub Profile)
+📩 [GitHub](https://github.com/GaneshMandre)
 
 🚀 Let’s collaborate on data-driven projects!
 
