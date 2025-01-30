@@ -1,12 +1,12 @@
 ## 📦 AtliQ Mart - Supply Chain FMCG Dashboard
 
-**🚀 Project Overview**
+# 🚀 Project Overview
 
 AtliQ Mart, an FMCG distributor in Surat, Ahmedabad, and Vadodara, plans to expand into Tier-1 cities within the next two years. However, several key customers did not renew their contracts due to service issues—delayed or incomplete deliveries of essential products.
 
 This Power BI dashboard provides insights into supply chain efficiency, helping AtliQ Mart identify service gaps and optimize delivery performance.
 
-**🎯 Key Business Problem**
+# 🎯 Key Business Problem
 
 *📌 Customer Retention Challenge*: Some key customers did not extend contracts due to inconsistent order fulfillment.
 
@@ -14,7 +14,7 @@ This Power BI dashboard provides insights into supply chain efficiency, helping 
 
 *📌 Expansion Roadblocks*: Understanding and resolving supply chain inefficiencies is crucial for scaling to Tier-1 cities.
 
-**📊 Key Insights & Metrics**
+# 📊 Key Insights & Metrics
 
 ✔ Order Fulfillment Rate – Tracks the percentage of orders delivered in full.
 
@@ -26,14 +26,14 @@ This Power BI dashboard provides insights into supply chain efficiency, helping 
 
 ✔ Category-Wise Delivery Performance – Evaluates fulfillment across different product categories.
 
-**📺 Live Dashboard**
+# 📺 Live Dashboard
 🔗 [ Click here to explore the interactive Power BI dashboard](https://lnkd.in/gDQrsi2v)
 
-**🎥 LinkedIn Presentation**  
+# 🎥 LinkedIn Presentation  
 🔗 [Watch My LinkedIn Project Presentation](https://www.linkedin.com/posts/ganesh-m-92071616a_powerbi-supplychain-dataanalytics-activity-7289660061046489088-fXc_?utm_source=share&utm_medium=member_desktop)  
 
 
-**🛠️ Tools & Technologies Used**
+# 🛠️ Tools & Technologies Used
 
 🔹 Power BI – Interactive data visualization
 
@@ -42,7 +42,7 @@ This Power BI dashboard provides insights into supply chain efficiency, helping 
 🔹 Excel – Data extraction & transformation
 
 
-**🌟 How to Use This Dashboard?**
+# 🌟 How to Use This Dashboard?
 
 1️⃣ Explore Key Metrics: Use slicers to filter by location, product categories, and customer segments.
 
@@ -53,7 +53,7 @@ This Power BI dashboard provides insights into supply chain efficiency, helping 
 4️⃣ Optimize Inventory Planning: Spot supply chain inefficiencies affecting performance.
 
 
-**🤝 Connect with Me**
+# 🤝 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-m-92071616a/)
 
